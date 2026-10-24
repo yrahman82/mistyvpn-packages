@@ -1,0 +1,17 @@
+Package: mistyvpn
+Architecture: amd64
+Version: 0.1.6
+Priority: optional
+Section: net
+Maintainer: MISTY TECH LTD <support@mistyvpn.com>
+Filename: pool/main/m/mistyvpn/mistyvpn_0.1.6_amd64.deb
+Size: 13720738
+MD5sum: 4e7660b06d76eeda65640d2b36396afb
+SHA1: 975bf58a449c83900829e18d6fbef418b8f3c9bb
+SHA256: 0bbe9fc0923256d716531dbdfd89de96a41df333914f65a0ee78d067c52ed36a
+SHA512: 1b8823687c22d1a645dd3378230efabbeb9fe473c1e9abc0499659b2b8ad6f955fbc9929a9c02f4d12f556971cf659bbf26bba374e46c9474d33e54da46c19aa
+Homepage: https://mistyvpn.com
+Description: MistyVPN command-line client
+ VLESS+Reality, Hysteria2, WireGuard (with stealth) and OpenVPN, split tunnelling,
+ kill switch, ad-block, password vault and authenticator. Run "misty help".
+

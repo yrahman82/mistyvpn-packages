@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 24 Oct 2026 17:39:55 +0000
+Description: MistyVPN
+Label: MistyVPN
+Origin: MistyVPN
+Suite: stable
+MD5Sum:
+ 8ac2a8f4f4dfb0d1fb8088ab3d136dfb              168 Release
+ 0c41193be6f0492051579204ef6dbd06              737 main/binary-amd64/Packages
+ 571057bdc35294986dcc28df2b208eb1              537 main/binary-amd64/Packages.gz
+ acfbab353fbea9a48ee9a61652fd3078              737 main/binary-arm64/Packages
+ 8c057d91af0780b5f1ae42cc3c863a24              542 main/binary-arm64/Packages.gz
+SHA1:
+ 085b18b1da995eaeed3fa8b98c0272f23e9bd66f              168 Release
+ e209c78ad1323cd2f8fb67b3443f60b7ec969cd0              737 main/binary-amd64/Packages
+ 5211be0ff5fccf3d026da8c3ce68d8d41874783e              537 main/binary-amd64/Packages.gz
+ 2d3fe315d2aed6ccdaf5850e2fd99bba33c894d0              737 main/binary-arm64/Packages
+ c81927197e9f92a4d632f71293fd1d82c16dea50              542 main/binary-arm64/Packages.gz
+SHA256:
+ 169e92eeb15da126b8cb9c76a18a5457d899bb1e48bd57749acbefe4b5fb350c              168 Release
+ af75f738fd37275390246a42fb156372ca87c7fac54ecb60b91fa2d8781b618f              737 main/binary-amd64/Packages
+ 316b9c98139755d62872e313a43fe3ba6bbe8dece900c2dafac01ea083d35df8              537 main/binary-amd64/Packages.gz
+ 5bab26611a62e938fb375cc6fab483cf972a615c72bb59dc444f03a781740107              737 main/binary-arm64/Packages
+ 7350dd19d34f1f740de3156afcbfd789feea209a892d63e13b8bb2705b215a2e              542 main/binary-arm64/Packages.gz
+SHA512:
+ ca41763858b234863d3147409ab9eae77199b8b6f0ab8be3f3df608e30d804a1fecb8a542598165ac9b9d4b987c8286dbacd7c5f07247c5f7052074007dbf66d              168 Release
+ 1fc05f5357538e099f5d9d68f291f2c3a75e03bdaca1d2c17f348551ac54f38a213e4668f3e7ce9fbf8c9892129ede0723903b710bd984c19eed749ee7a9a0d5              737 main/binary-amd64/Packages
+ 258a3f4e30eaa5112bebae7b9b3dd9894f8e12b21e002db7ed890ea6f444c61463425f8b90c30e681335bbb97cff32c1a883399f7a7ce1ab6cf04451672ea2e9              537 main/binary-amd64/Packages.gz
+ 7f5fd5fbe95c6ca9297f1b0a352c35bc5d959703a19d7280f3e83eddacfe7929ac7f3f18dcffda1c910447303b6ac06d0093545fa25b07e366c181c466b74998              737 main/binary-arm64/Packages
+ 81d9edbdf63b57cc3216c493e559b54d748d4ebec843e3abf38aa2f7cfa40544dd6c81f310de25ad3f0cbba801d106f332b896bd0346afdfde9f47e47cc45abb              542 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRCR036EdocJ+ridV3buuThv/PMcQUCatztawAKCRDbuuThv/PM
+cTP+AP4uNHk2VBQ4nAw4AY7tztaFmvj0haMbgWPaIcVgu0cZgwD7BFzeOAn7Sdqg
+RwPTsPv3Ze0N1azU9/A59edCtHLYIAE=
+=VQgi
+-----END PGP SIGNATURE-----
