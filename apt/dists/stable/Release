@@ -1,0 +1,32 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Thu, 26 Nov 2026 16:27:48 +0000
+Description: MistyVPN
+Label: MistyVPN
+Origin: MistyVPN
+Suite: stable
+MD5Sum:
+ 50802503c3d6a4e9971c4c32c1f5c937              168 Release
+ 2e11a68ee8c5390c5cdeb54f1534ab8b              737 main/binary-amd64/Packages
+ ef95059ebf0fc490c34d0b0f8706335a              539 main/binary-amd64/Packages.gz
+ 9014809d95188deacd7c9e2abd72572b              737 main/binary-arm64/Packages
+ 55c63f0c4f7b5b606d45cf4b0e576167              539 main/binary-arm64/Packages.gz
+SHA1:
+ fa752cc1491af4673a358dcf18e52da6a37b5de5              168 Release
+ 32ef63389f7f96e9cf4375263ccaaa62214fb663              737 main/binary-amd64/Packages
+ 9dc2ef0bae4992355b4bfe8927ada62e8f06bf58              539 main/binary-amd64/Packages.gz
+ d0dda202078ee2dedb94879b3289c75c4be96d52              737 main/binary-arm64/Packages
+ fedb4e33f9d16dabf8c84e732d6b252b377459cd              539 main/binary-arm64/Packages.gz
+SHA256:
+ 0b236db25d0c248c06f81eafd18d568cf897cdec722d68949135bde1e8854285              168 Release
+ 7b3ff6600daec9ecdcef7c5d5d12e48ddd08234deaae038fa0e658550560b769              737 main/binary-amd64/Packages
+ 7b579bf89dfd2a95658b419c9ea76394716660779385a6710d5926a29c9af656              539 main/binary-amd64/Packages.gz
+ 97868433cae37b16c55bd66d4aaff4205ebbacf055da4efaf4c8e76fcce60a59              737 main/binary-arm64/Packages
+ 3e334e4d83325ad33c3ebd54ac682882a72174d35171358c71cb003221f1c580              539 main/binary-arm64/Packages.gz
+SHA512:
+ ce93a9b1908cfa87a706780b159fc0e805e207fc262138230cc5f1489ea073a147a37da8d20abd6bfb5d855557db13b276f9b44b7ffc73b72b99c055373ce589              168 Release
+ 6a4649eef62a9be83c09fd15b9189a669f0761941f978d6ee91165b370f4f425de6fec7ccc06664038ea39a394690fcf1de55334959eb6183751ea157be3bc98              737 main/binary-amd64/Packages
+ 96f1ab156c1355e73a0521ece60381740e0165ca98dbd30d259cefaf8245706ecbe49ac20b6861e98ae9a4a919760f9ae42af4f6d3c1687f655eb50121e11e42              539 main/binary-amd64/Packages.gz
+ 68d7d0d2079a5701a71d03e6aa332ae4434f089861b227e9ade00f8ac327e34692be65ecc25e00e7591d692eab7703aa15be7d01a86ca80a41fdddacbd7ee27c              737 main/binary-arm64/Packages
+ fbaff44073e72d7c8410eecb18a241e1d304e54d798485f896e1883d2cf616027148bc3e6b3fc79d777e4e96de046515edf0f8135ed1a538a96f3a8701677674              539 main/binary-arm64/Packages.gz
